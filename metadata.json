@@ -1,3 +1,16 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "id": "new-note-f6ffd822-c82d-4d14-82ef-ddcf91c3a9de",
+      "title": "test",
+      "filePath": "new-note-f6ffd822-c82d-4d14-82ef-ddcf91c3a9de.md",
+      "date": "2022-01-26T21:39:45.852Z",
+      "color": "orange",
+      "favourite": false,
+      "hashtags": [
+        "test"
+      ],
+      "attachments": []
+    }
+  ]
 }

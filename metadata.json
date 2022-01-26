@@ -23,7 +23,11 @@
       "hashtags": [
         "qqq"
       ],
-      "attachments": []
+      "attachments": [
+        {
+          "filename": "473-200x200.jpg"
+        }
+      ]
     }
   ]
 }

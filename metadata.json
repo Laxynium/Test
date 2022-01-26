@@ -1,1 +1,36 @@
-{"notes":[{"id":"new-note-fb1456f5-6373-405d-a469-f9f444765614","title":"ewq","filePath":"new-note-fb1456f5-6373-405d-a469-f9f444765614.md","date":"2022-01-26T20:17:52.382Z","color":"red","favourite":false,"hashtags":["ewq","eqw"],"attachments":[{"filename":"168-200x300.jpg"},{"filename":"473-200x200.jpg"}]},{"id":"new-note-b050cdd9-968f-47cc-a51e-87a03751e6c5","title":"qqq","filePath":"new-note-b050cdd9-968f-47cc-a51e-87a03751e6c5.md","date":"2022-01-26T20:20:45.245Z","color":"orange","favourite":false,"hashtags":["qqq"],"attachments":[{"filename":"1020-4288x2848.jpg"},{"filename":"237-200x300.jpg"}]}]}
+{
+  "notes": [
+    {
+      "id": "new-note-fb1456f5-6373-405d-a469-f9f444765614",
+      "title": "ewq3",
+      "filePath": "new-note-fb1456f5-6373-405d-a469-f9f444765614.md",
+      "date": "2022-01-26T20:17:52.382Z",
+      "color": "red",
+      "favourite": false,
+      "hashtags": [
+        "ewq",
+        "eqw"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "new-note-b050cdd9-968f-47cc-a51e-87a03751e6c5",
+      "title": "qqq",
+      "filePath": "new-note-b050cdd9-968f-47cc-a51e-87a03751e6c5.md",
+      "date": "2022-01-26T20:20:45.245Z",
+      "color": "orange",
+      "favourite": false,
+      "hashtags": [
+        "qqq"
+      ],
+      "attachments": [
+        {
+          "filename": "1020-4288x2848.jpg"
+        },
+        {
+          "filename": "237-200x300.jpg"
+        }
+      ]
+    }
+  ]
+}
